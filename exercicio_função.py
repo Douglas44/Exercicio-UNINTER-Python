@@ -12,9 +12,9 @@ def numero_validado(x):
         return x
 
 
-resultado = fatorial(12, numero_validado)
+resultado = fatorial(5, numero_validado)
 print(resultado)
-help(resultado)
+
 
 # Exercício 2 - Cadastro de Jogos
 # Tela Inicial
